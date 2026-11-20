@@ -1,0 +1,12 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\c++ проэкты и sql\\курсовая 1\\c++ vs\\autoschoolapp\\autoschoolapp\\main.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "d:\\c++ проэкты и sql\\курсовая 1\\c++ vs\\autoschoolapp\\autoschoolapp\\include\\autoschoolservice.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
